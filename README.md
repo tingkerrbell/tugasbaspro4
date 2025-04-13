@@ -36,6 +36,7 @@ bahasa_pemrograman_2/         # Folder proyek utama
 ```bash
 python matrix5x5.py
 
+---
 🎯 Tujuan Proyek
 ✅ Melatih penggunaan nested loop (for dalam for)
 ✅ Belajar membuat list 2 dimensi
